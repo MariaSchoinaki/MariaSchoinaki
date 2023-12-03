@@ -1,4 +1,4 @@
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
 </div>
 
-### :chart_with_upwards_trend: My Stats :
+### 📈: My Stats :
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact"/>
