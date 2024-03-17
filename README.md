@@ -18,4 +18,4 @@
 ### ⌨️ My Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> 
