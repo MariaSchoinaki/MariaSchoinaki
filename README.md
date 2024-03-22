@@ -33,7 +33,7 @@ a Computer Science undergraduate student at Athens University of Economics and B
 
 ---
 
-### 📈: My Stats :
+### 📈 My Stats :
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact)
