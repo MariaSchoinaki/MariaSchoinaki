@@ -2,7 +2,7 @@
 a Computer Science undergraduate student at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>)
 
 👩🏻‍💻 Mostly Interested in **Cyber Security** 🔐 **Software Engineering** 💻 **Artificial Intelligence** 🤖 **Data Science** 📊  <br>
-📖 I’m currently studying Cyber Security, Software Engineering, Data Science, Paraller Programming  <br>
+📖 I’m currently studying Cyber Security, Software Engineering, Data Science, Parallel Programming  <br>
 
 ---
 
