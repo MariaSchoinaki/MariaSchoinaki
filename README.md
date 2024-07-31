@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
 a Computer Science undergraduate student at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>)
 
-👩🏻‍💻 Mostly Interested in  **Software Engineering** 💻 **Artificial Intelligence** 🤖 **Data Science** 📊 **Cyber Security** 🔐 <br>
+👩🏻‍💻 Mostly Interested in  **Software Engineering** 💻  **Artificial Intelligence** 🤖  **Data Science** 📊  **Cyber Security** 🔐 <br>
 📖 I’m currently studying Data Science, Software Engineering, Distributed Systems, Cyber Security  <br>
 
 ---
@@ -12,6 +12,7 @@ a Computer Science undergraduate student at Athens University of Economics and B
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
