@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
 a Computer Science undergraduate student at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>)
 
-👩🏻‍💻 Mostly Interested in  **Software Engineering** 💻  **Artificial Intelligence** 🤖  **Data Science** 📊  **Cyber Security** 🔐 <br>
+👩🏻‍💻 Mostly Interested in  **Artificial Intelligence** 🤖  **Data Science** 📊  **Software Engineering** 💻  **Cyber Security** 🔐 <br>
 📖 I’m currently studying Data Science, Software Engineering, Distributed Systems, Cyber Security  <br>
 
 ---
