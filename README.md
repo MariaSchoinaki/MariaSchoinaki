@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
 a Computer Science undergraduate student at Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>)
 
-👩🏻‍💻 Mostly Interested in  **Artificial Intelligence** 🤖  **Data Science** 📊  **Software Engineering** 💻  **Cyber Security** 🔐 <br>
-📖 I’m currently studying Data Science, Software Engineering, Distributed Systems, Cyber Security  <br>
+👩🏻‍💻 Mostly Interested in  **Artificial Intelligence** 🤖  **Data Science** 📊  **Software Engineering** 💻 <br>
+📖 I’m currently studying Applied Machine Learning, Machine Learning, Big Data, Statistics  <br>
 
 ---
 
@@ -14,6 +14,7 @@ a Computer Science undergraduate student at Athens University of Economics and B
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,8 +39,8 @@ a Computer Science undergraduate student at Athens University of Economics and B
 ### 📈 My Stats :
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact)
+<!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> 
+<!-- <img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> -->
