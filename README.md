@@ -41,6 +41,6 @@ a Computer Science undergraduate student at Athens University of Economics and B
 
 <!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> -->
