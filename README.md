@@ -25,8 +25,6 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="36" height="36"/>&nbsp;
 
 <h3 align="left">Tools and Frameworks:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -41,8 +39,10 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="my sql" width="40" height="40"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
+  <!--<img src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="36" height="36"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NodeJS" alt="NodeJS" width="36" height="36"/>&nbsp;
+  <!--<img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;-->
 </div>
 <br>
 
