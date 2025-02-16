@@ -13,7 +13,7 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 ---
 
 <h3 align="left">Programming Languages:</h3>
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -48,6 +48,8 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 
 ---
 
+<div align="left">
+  
 ### 📈 My Stats :
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
@@ -56,3 +58,4 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> -->
+</div>
