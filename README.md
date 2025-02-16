@@ -59,3 +59,5 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 
 <!-- <img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> -->
 </div>
+
+> Opportunities don't happen, you create them - Chris Grosser
