@@ -6,9 +6,15 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 🎯 Committed to exploring new technologies and contributing to the evolution of computer science.
 
 <div id="badges" align="center">
+  <a href="mariaschoinaki.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/maria-schoinaki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+  
   
 ---
 
