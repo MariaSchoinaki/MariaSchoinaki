@@ -55,16 +55,15 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 ---
 
 <div align="left">
-  
-### 📈 My Stats :
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
-<!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MariaSchoinaki&rank_icon=github&theme=radical&layout=compact) -->
+### 📈 My Stats :
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <img src="https://komarev.com/ghpvc/?username=MariaSchoinaki&style=flat-square&color=blue" alt=""/> -->
 </div>
+
 
 <div align="left">
   
