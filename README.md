@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
 a 22 y.o. Computer Science & Informatics undergraduate studying under the School of Information Sciences and Technology at Athens University of Economics and Business (<a href='https://www.aueb.gr/en'>AUEB</a>) (2021-2025).
 
-👩🏻‍💻 Mostly Interested in  **Artificial Intelligence** 🤖  **Data Science** 📊  **Software Engineering** 💻 <br>
+👩🏻‍💻 Mostly Interested in **Artificial Intelligence** 🤖 and **Data Science** 📊 <br>
 📖 I’m currently studying **Applied Data Science**, **Information Retrieval**, **Human Computer Interaction**, **Data Analysis** <br>
 🎯 Committed to exploring new technologies and contributing to the evolution of computer science.
 
