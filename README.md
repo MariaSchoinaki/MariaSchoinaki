@@ -14,6 +14,14 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
   </a>
 </div>
 
+<div align="left">
+  
+> Opportunities don't happen, you create them - Chris Grosser
+
+> The best way to predict the future is to invent it - Alan Kay
+
+> Data is the new oil - Clive Humby
+</div>
   
   
 ---
@@ -64,12 +72,5 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaSchoinaki&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSchoinaki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-<div align="left">
-  
-> Opportunities don't happen, you create them - Chris Grosser
 
 </div>
