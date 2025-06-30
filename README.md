@@ -1,8 +1,28 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
-a 22 y.o. Computer Science & Informatics undergraduate studying under the School of Information Sciences and Technology at Athens University of Economics and Business (<a href='https://www.aueb.gr/en'>AUEB</a>) (2021-2025).
+a 22 y.o. Computer Science & Informatics undergraduate studying under the School of Information Sciences and Technology at Athens University of Economics and Business (<a href='https://www.aueb.gr/en'>AUEB</a>) (2021-2025), passionate about **AI**, **Natural Language Processing**, and the social impact of technology.
 
-👩🏻‍💻 Mostly Interested in **Artificial Intelligence** 🤖 and **Data Science** 📊 <br>
-📖 I’m currently studying **Applied Data Science**, **Information Retrieval**, **Human Computer Interaction**, **Data Analysis** <br>
+🎓 Currently completing my BSc (2021–2025), writing my thesis on **Explainability in AI**, under AUEB's NLP Group.
+
+My mission is to combine deep technical skill with ethical AI thinking-bridging research, transparency, and real-world applications. I aim to contribute to Greece’s tech ecosystem and build AI tools that serve people.
+
+---
+
+### 🧠 Research & Interests
+- **Natural Language Processing (NLP)**: sentiment analysis, interpretability, transformers
+- **Explainable AI (XAI)**: model transparency, SHAP/LIME etc., human-centered AI
+- **Machine Learning & Deep Learning**: classical and neural approaches using TensorFlow, PyTorch
+- **Human-AI Interaction**: designing interfaces that help people trust and understand AI systems
+
+---
+
+### 📚 Currently Exploring
+- Applied Data Science  
+- Information Retrieval  
+- Human-Computer Interaction  
+- AI Interpretability Tools
+
+---
+
 🎯 Committed to exploring new technologies and contributing to the evolution of computer science.
 
 <div id="badges" align="center">
@@ -15,7 +35,9 @@ a 22 y.o. Computer Science & Informatics undergraduate studying under the School
 </div>
 
 <div align="left">
-  
+
+
+
 > Opportunities don't happen, you create them - Chris Grosser
 
 > The best way to predict the future is to invent it - Alan Kay
