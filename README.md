@@ -7,14 +7,6 @@ My mission is to combine deep technical skill with ethical AI thinking-bridging 
 
 ---
 
-### 🧠 Research & Interests
-- **Natural Language Processing (NLP)**: sentiment analysis, interpretability, transformers
-- **Explainable AI (XAI)**: model transparency, SHAP/LIME etc., human-centered AI
-- **Machine Learning & Deep Learning**: classical and neural approaches using TensorFlow, PyTorch
-- **Human-AI Interaction**: designing interfaces that help people trust and understand AI systems
-
----
-
 ### 📚 Currently Exploring
 - Applied Data Science  
 - Information Retrieval  
