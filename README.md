@@ -7,14 +7,6 @@ My mission is to combine deep technical skill with ethical AI thinking-bridging 
 
 ---
 
-### 📚 Currently Exploring
-- Applied Data Science  
-- Information Retrieval  
-- Human-Computer Interaction  
-- AI Interpretability Tools
-
----
-
 🎯 Committed to exploring new technologies and contributing to the evolution of computer science.
 
 <div id="badges" align="center">
