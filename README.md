@@ -1,9 +1,11 @@
 ### 👋 Hi there, I'm Maria Schoinaki,
-a 22 y.o. Computer Science & Informatics undergraduate studying under the School of Information Sciences and Technology at Athens University of Economics and Business (<a href='https://www.aueb.gr/en'>AUEB</a>) (2021-2025), passionate about **AI**, **Natural Language Processing**, and the social impact of technology.
+I’m currently pursuing my Master’s (MSc) in Computer Science at the Department of Informatics, School of Information Sciences and Technology, Athens University of Economics and Business (<a href='https://www.aueb.gr/en'>AUEB</a>) (2025-2027).
 
-🎓 Currently completing my BSc (2021–2025), writing my thesis on **Explainability in AI**, under AUEB's NLP Group.
+🎓 I recently completed my BSc in Computer Science (2021–2025) at AUEB, where I conducted my thesis on **Explainability in AI**, under AUEB's NLP Group.
 
-My mission is to combine deep technical skill with ethical AI thinking-bridging research, transparency, and real-world applications. I aim to contribute to Greece’s tech ecosystem and build AI tools that serve people.
+My focus lies in **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**.
+
+💡 My mission is to combine deep technical skill with ethical AI thinking-bridging research, transparency, and real-world applications. I aim to contribute to Greece’s tech ecosystem and build AI tools that serve people.
 
 ---
 
